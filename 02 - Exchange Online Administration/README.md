@@ -40,3 +40,47 @@ I successfully created a new **Microsoft 365** user account, assigned a **Micros
 **Figure 2:** Newly created **Microsoft 365** user account displayed within **Active Users** with a **Microsoft 365 Business Premium** licence assigned.
 
 <img width="1919" height="915" alt="02 – Create a Microsoft 365 User Account" src="https://github.com/user-attachments/assets/f00ab899-71c3-46d1-bf49-7df2dbe3de94" />
+
+# Task 2 - Manage Microsoft 365 Administrator Roles
+
+## Objective
+
+Assign an appropriate **Microsoft 365** administrator role to a user account by following the **principle of least privilege**, ensuring the user receives only the permissions required to perform their role.
+
+---
+
+## Implementation
+
+I accessed the user's account within the **Microsoft 365 Admin Center** and opened the **Manage roles** settings. From there, I enabled **Admin center access** and assigned the **Helpdesk Administrator** role to the user account.
+
+Assigning only the permissions required for the user's responsibilities helps maintain security while allowing authorised administrative tasks to be performed.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+↳ Users
+   ↳ Active users
+      ↳ Select User
+         ↳ Manage roles
+```
+
+---
+
+## Outcome
+
+I successfully assigned the **Helpdesk Administrator** role to the user account using the **principle of least privilege**. This demonstrates a common administrative task performed by **IT Support** technicians when granting users the appropriate level of access within **Microsoft 365**.
+
+---
+
+## Screenshots
+
+**Figure 1:** Opening the **Manage roles** settings from the selected user account within the **Microsoft 365 Admin Center**.
+
+<img width="1919" height="915" alt="03 – Manage Microsoft 365 Administrator Roles" src="https://github.com/user-attachments/assets/248b0f42-f1ff-491c-ab32-f895d6122880" />
+
+**Figure 2:** Assigning the **Helpdesk Administrator** role by enabling **Admin center access** and selecting the appropriate administrator role.
+
+<img width="1919" height="912" alt="04 – Manage Microsoft 365 Administrator Roles" src="https://github.com/user-attachments/assets/0ee44d06-e392-437d-83f3-d2b65fab801c" />
