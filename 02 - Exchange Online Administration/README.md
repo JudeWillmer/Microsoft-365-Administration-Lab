@@ -89,7 +89,7 @@ I successfully assigned the **Helpdesk Administrator** role to the user account 
 
 ## Objective
 
-Review the **Microsoft 365 Service Health** dashboard and understand how it is used to identify service incidents before troubleshooting individual user issues.
+Monitor the **Microsoft 365 Service Health** dashboard and understand how it is used to identify service incidents before troubleshooting individual user issues.
 
 ---
 
