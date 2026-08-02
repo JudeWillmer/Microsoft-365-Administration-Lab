@@ -85,24 +85,43 @@ I successfully assigned the **Helpdesk Administrator** role to the user account 
 
 <img width="1919" height="912" alt="04 – Manage Microsoft 365 Administrator Roles" src="https://github.com/user-attachments/assets/0ee44d06-e392-437d-83f3-d2b65fab801c" />
 
-### Task 3 - Monitor Microsoft 365 Service Health
+# Task 3 - Monitor Microsoft 365 Service Health
 
-**Objective**
+## Objective
 
-Monitor the Microsoft 365 Service Health dashboard and demonstrate how to begin reporting a service issue within the Microsoft 365 Admin Center.
+Review the **Microsoft 365 Service Health** dashboard and understand how it is used to identify service incidents before troubleshooting individual user issues.
 
-**Navigation**
+---
 
-`Microsoft 365 Admin Center → Health → Service health → Report an issue`
+## Implementation
 
-**Outcome**
+I accessed the **Service Health** dashboard within the **Microsoft 365 Admin Center** to review active incidents, advisories, and the current status of Microsoft 365 services.
 
-I successfully accessed the **Service Health** dashboard to review the current status of Microsoft 365 services and demonstrated how to begin reporting a service issue. This task reinforced the importance of checking Microsoft's service status before troubleshooting user-reported issues, helping to determine whether a problem is caused by a Microsoft service outage or an individual user issue.
+I also opened the **Report an issue** form and reviewed the information required to report a potential service problem to Microsoft, including the affected service, issue category, business impact, and a brief description of the problem.
 
-**Implementation**
+Checking **Service Health** is an important first step when multiple users report similar issues, as it helps determine whether the problem is caused by a wider Microsoft service incident rather than an individual device or account.
 
-After signing in to the **Microsoft 365 Admin Center**, I navigated to **Health → Service health**. From the Service Health dashboard, I selected **Report an issue** and completed the initial reporting form by selecting an affected service, choosing an issue category, and entering a brief description of the problem. This demonstrated the process an IT Support technician would follow when escalating a Microsoft 365 service issue to Microsoft.
+---
 
-**Figure 1:** Reporting a Microsoft 365 service issue from the Service Health dashboard.
+## Navigation
 
-<img width="1914" height="916" alt="05 – Monitor Microsoft 365 Service Health" src="https://github.com/user-attachments/assets/48496316-9f01-4e73-8624-7df3bcbec1c7" />
+```text
+Microsoft 365 Admin Center
+↳ Health
+   ↳ Service health
+      ↳ Report an issue
+```
+
+---
+
+## Outcome
+
+I successfully reviewed the **Microsoft 365 Service Health** dashboard and identified how active incidents and service advisories are displayed. I also demonstrated how to begin reporting a service issue to Microsoft, providing a practical method for identifying and escalating wider Microsoft 365 service problems.
+
+---
+
+## Screenshot
+
+**Figure 1:** Reviewing the **Report an issue** form within **Microsoft 365 Service Health** to begin escalating a potential Microsoft 365 service problem.
+
+<img width="1914" height="916" alt="05 – Monitor Microsoft 365 Service Health" src="https://github.com/user-attachments/assets/cec1dd31-b727-433e-b58a-3824bcb89db5" />
