@@ -41,7 +41,7 @@ Configure Microsoft Outlook settings including email signatures, automatic repli
 
 ### 📁 02 - Exchange Online Administration
 
-Manage Exchange Online using the Exchange Admin Center, including mailbox administration, permissions, and monitoring service health.
+Manage Microsoft 365 users, administrator roles, and service health using the Microsoft 365 Admin Center and Exchange Online.
 
 ### 📁 03 - Mailboxes and Calendars
 
