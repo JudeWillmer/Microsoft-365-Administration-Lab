@@ -23,15 +23,15 @@ Home
 ↳ More (...)
    ↳ Rules
    ↳ Block
+↳ Address Book
 
 View
 ↳ Layout
 ↳ Change View
 ↳ Arrange By
 
-Address Book
-
-Calendar
+Left Navigation Pane
+↳ Calendar
 ```
 
 ---
