@@ -84,3 +84,25 @@ I successfully assigned the **Helpdesk Administrator** role to the user account 
 **Figure 2:** Assigning the **Helpdesk Administrator** role by enabling **Admin center access** and selecting the appropriate administrator role.
 
 <img width="1919" height="912" alt="04 – Manage Microsoft 365 Administrator Roles" src="https://github.com/user-attachments/assets/0ee44d06-e392-437d-83f3-d2b65fab801c" />
+
+### Task 3 - Monitor Microsoft 365 Service Health
+
+**Objective**
+
+Monitor the Microsoft 365 Service Health dashboard and demonstrate how to begin reporting a service issue within the Microsoft 365 Admin Center.
+
+**Navigation**
+
+`Microsoft 365 Admin Center → Health → Service health → Report an issue`
+
+**Outcome**
+
+I successfully accessed the **Service Health** dashboard to review the current status of Microsoft 365 services and demonstrated how to begin reporting a service issue. This task reinforced the importance of checking Microsoft's service status before troubleshooting user-reported issues, helping to determine whether a problem is caused by a Microsoft service outage or an individual user issue.
+
+**Implementation**
+
+After signing in to the **Microsoft 365 Admin Center**, I navigated to **Health → Service health**. From the Service Health dashboard, I selected **Report an issue** and completed the initial reporting form by selecting an affected service, choosing an issue category, and entering a brief description of the problem. This demonstrated the process an IT Support technician would follow when escalating a Microsoft 365 service issue to Microsoft.
+
+**Figure 1:** Reporting a Microsoft 365 service issue from the Service Health dashboard.
+
+<img width="1914" height="916" alt="05 – Monitor Microsoft 365 Service Health" src="https://github.com/user-attachments/assets/48496316-9f01-4e73-8624-7df3bcbec1c7" />
