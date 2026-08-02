@@ -85,7 +85,7 @@ File
 
 ## Outcome
 
-Successfully created and configured a default **Microsoft Outlook** email signature that is automatically applied to outgoing emails. This ensures professional and consistent communication while reducing the need to manually add contact information to each message.
+Successfully created and configured a default **Microsoft Outlook** email signature that is automatically applied to outgoing emails. **I verified** that the signature was automatically inserted into new email messages, ensuring professional and consistent communication while reducing the need to manually add contact information to each message.
 
 ---
 
