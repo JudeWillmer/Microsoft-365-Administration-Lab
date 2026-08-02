@@ -94,3 +94,43 @@ Successfully created and configured a default **Microsoft Outlook** email signat
 **Figure 1:** New email message displaying the configured **Microsoft Outlook** email signature automatically applied to outgoing messages. The **Signatures** (pen) icon is available from the ribbon for creating and managing email signatures.
 
 <img width="1919" height="871" alt="03 – Configure an Email Signature" src="https://github.com/user-attachments/assets/7e88dfe4-99ef-4871-aae5-19e4b3ea687d" />
+
+# Task 3 - Configure Automatic Replies (Out of Office)
+
+## Objective
+
+Configure **Automatic Replies (Out of Office)** in **Microsoft Outlook** to notify internal and external users when a mailbox owner is unavailable.
+
+---
+
+## Implementation
+
+I configured **Automatic Replies** within Outlook to automatically respond to incoming emails during a scheduled period of absence. I created a professional response informing users when I would return and provided an alternative point of contact for urgent enquiries. I also reviewed the alternative method of configuring automatic replies through **Outlook on the Web**, providing familiarity with both the desktop application and the Microsoft 365 web interface.
+
+---
+
+## Navigation
+
+```text
+File
+↳ Automatic Replies
+
+Microsoft 365
+↳ Outlook on the Web
+   ↳ Settings
+      ↳ Automatic Replies
+```
+
+---
+
+## Outcome
+
+I successfully configured an **Automatic Reply** with a scheduled date range and separate settings for **internal** and **external** recipients. This ensures users receive appropriate communication during planned absences while reducing unnecessary Help Desk enquiries and maintaining professional email communication.
+
+---
+
+## Screenshot
+
+**Figure 1:** Configuring **Automatic Replies (Out of Office)** with a scheduled date range and separate internal and external responses.
+
+<img width="1919" height="867" alt="04 – Configure Automatic Replies (Out of Office)" src="https://github.com/user-attachments/assets/b3f7f5c2-759b-466b-bfc5-ecc04996db1f" />
