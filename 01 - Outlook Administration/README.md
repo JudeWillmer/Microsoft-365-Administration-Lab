@@ -51,3 +51,46 @@ Successfully explored the **Microsoft Outlook** interface and became familiar wi
 **Figure 2:** Outlook **View** settings displaying layout options used to manage the **Folder Pane**, **Reading Pane**, and mailbox layout during common **IT Support** tasks.
 
 <img width="1919" height="916" alt="02 – Outlook Overview and Navigation" src="https://github.com/user-attachments/assets/390fafe4-6bba-4e42-9c91-3189a4661ce3" />
+
+# Task 2 - Configure an Email Signature
+
+## Objective
+
+Create a professional **Microsoft Outlook** email signature to provide consistent contact information and improve email communication within a **Microsoft 365** environment.
+
+---
+
+## Implementation
+
+I created a professional **Outlook** email signature containing my name, job title, organisation, and company email address. The signature was configured as the default for **new messages** and **replies/forwards**, ensuring it is automatically applied whenever an email is composed.
+
+Email signatures provide consistent contact information, reinforce organisational branding, and present a professional appearance when communicating with colleagues, customers, and external organisations.
+
+---
+
+## Navigation
+
+```text
+Home
+↳ New Email
+   ↳ Signatures (Pen Icon)
+
+File
+↳ Options
+   ↳ Mail
+      ↳ Signatures
+```
+
+---
+
+## Outcome
+
+Successfully created and configured a default **Microsoft Outlook** email signature that is automatically applied to outgoing emails. This ensures professional and consistent communication while reducing the need to manually add contact information to each message.
+
+---
+
+## Screenshot
+
+**Figure 1:** New email message displaying the configured **Microsoft Outlook** email signature automatically applied to outgoing messages. The **Signatures** (pen) icon is available from the ribbon for creating and managing email signatures.
+
+<img width="1919" height="871" alt="03 – Configure an Email Signature" src="https://github.com/user-attachments/assets/7e88dfe4-99ef-4871-aae5-19e4b3ea687d" />
