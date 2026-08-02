@@ -18,15 +18,21 @@ Particular attention was given to the **View** settings, as these are frequently
 
 ## Navigation
 
-- **View** → **Layout**
-- **View** → **Change View**
-- **View** → **Arrange By**
-- **Home** → **Rules**
-- **Home** → **Junk**
-- **Address Book**
-- **Calendar**
+```text
+View
+↳ Layout
+↳ Change View
+↳ Arrange By
 
----
+Home
+↳ Rules
+↳ Junk
+
+Address Book
+
+Calendar
+
+```
 
 ## Outcome
 
