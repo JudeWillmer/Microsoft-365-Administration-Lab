@@ -43,7 +43,7 @@ Configure Microsoft Outlook settings including email signatures, automatic repli
 
 Manage Microsoft 365 users, administrator roles, and service health using the Microsoft 365 Admin Center and Exchange Online.
 
-### 📁 03 - Mailboxes and Calendars
+### 📁 03 - Mailbox and Calendar Management
 
 Manage shared mailboxes, delegation, Send As permissions, and calendar sharing to support common business requirements.
 
