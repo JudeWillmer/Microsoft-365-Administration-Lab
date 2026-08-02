@@ -36,12 +36,18 @@ Calendar
 
 ---
 
+## Outcome
+
+Successfully explored the **Microsoft Outlook** interface and became familiar with the navigation, settings, and features commonly used to support end users. I identified where to manage **mailbox rules**, **blocked senders**, **layout settings**, **contacts**, and **calendar** features, providing a solid understanding of the Outlook tools frequently used within a **Microsoft 365** environment.
+
+---
+
 ## Screenshot
 
-**Figure 1:** Microsoft Outlook Home tab showing the Inbox, Folder Pane, ribbon navigation, and commonly used mailbox management features.
+**Figure 1:** Microsoft Outlook **Home** tab displaying the mailbox interface, **Folder Pane**, and commonly used mailbox management options available to **IT Support** technicians.
 
-<img width="1918" height="916" alt="01 – Outlook Overview and Navigation" src="https://github.com/user-attachments/assets/be67ae9e-2e0e-4d9b-8e26-baa22ef16cdc" />
+<img width="1918" height="916" alt="01 – Outlook Overview and Navigation" src="https://github.com/user-attachments/assets/fa536a99-54f6-4eee-a011-6864983130c3" />
 
-**Figure 2:** Outlook View settings displaying layout options used to manage the Folder Pane, Reading Pane, and mailbox layout during common IT Support tasks.
+**Figure 2:** Outlook **View** settings displaying layout options used to manage the **Folder Pane**, **Reading Pane**, and mailbox layout during common **IT Support** tasks.
 
-<img width="1919" height="916" alt="02 – Outlook Overview and Navigation" src="https://github.com/user-attachments/assets/9003268e-227f-4503-b8cd-9adb3982fa3c" />
+<img width="1919" height="916" alt="02 – Outlook Overview and Navigation" src="https://github.com/user-attachments/assets/390fafe4-6bba-4e42-9c91-3189a4661ce3" />
