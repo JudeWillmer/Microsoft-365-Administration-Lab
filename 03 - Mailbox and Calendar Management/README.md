@@ -118,3 +118,5 @@ I successfully configured **Global Address List visibility** by hiding the selec
 ## Screenshot
 
 **Figure 1:** Configuring **Global Address List visibility** for a Microsoft 365 user within the Microsoft 365 Admin Center.
+
+<img width="1919" height="914" alt="04 – Manage Global Address List Visibility" src="https://github.com/user-attachments/assets/0d2bcabe-2945-4836-808d-0368a4fac267" />
