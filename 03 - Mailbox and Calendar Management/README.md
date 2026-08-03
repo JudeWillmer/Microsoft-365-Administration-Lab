@@ -120,3 +120,55 @@ I successfully configured **Global Address List visibility** by hiding the selec
 **Figure 1:** Configuring **Global Address List visibility** for a Microsoft 365 user within the Microsoft 365 Admin Center.
 
 <img width="1919" height="914" alt="04 – Manage Global Address List Visibility" src="https://github.com/user-attachments/assets/0d2bcabe-2945-4836-808d-0368a4fac267" />
+
+# Task 4 - Configure Calendar Permissions and Delegation
+
+## Objective
+
+Configure **Calendar Permissions** and **Delegate Access** in **Microsoft Outlook** to allow another user to view and manage a mailbox owner's calendar.
+
+---
+
+## Implementation
+
+I configured **Calendar Permissions** by adding another user and assigning the appropriate permission level to access my Outlook calendar. This allows authorised users to view calendar information or manage calendar events depending on the level of access granted.
+
+I also configured **Delegate Access**, which enables another user to manage calendar items on behalf of the mailbox owner. After applying the permissions, I verified the configuration by confirming that the recipient received the calendar sharing invitation.
+
+---
+
+## Navigation
+
+```text
+Calendar Permissions
+
+Outlook
+└─ Calendar
+   └─ My Calendars
+      └─ Calendar Properties
+         └─ Permissions
+
+Delegate Access
+
+File
+└─ Account Settings
+   └─ Delegate Access
+```
+
+---
+
+## Outcome
+
+I successfully configured **Calendar Permissions** and **Delegate Access** for another user in **Microsoft Outlook**. The recipient received the calendar sharing invitation, demonstrating that the permissions had been applied successfully and that the calendar could now be shared for collaboration when required.
+
+---
+
+## Screenshot
+
+**Figure 1:** Configuring **Calendar Permissions** by adding a user and assigning **Delegate** access.
+
+<img width="1918" height="910" alt="05 – Configure Calendar Permissions and Delegation" src="https://github.com/user-attachments/assets/4423ca86-24ff-40cd-92e5-8d3ad931acd9" />
+
+**Figure 2:** Calendar sharing invitation received, confirming that **Delegate Access** was successfully configured.
+
+<img width="1918" height="910" alt="05 – Configure Calendar Permissions and Delegation" src="https://github.com/user-attachments/assets/86c6dce5-2c8c-4438-85ec-6f66ff29fa73" />
