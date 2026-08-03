@@ -171,4 +171,4 @@ I successfully configured **Calendar Permissions** and **Delegate Access** for a
 
 **Figure 2:** Calendar sharing invitation received, confirming that **Delegate Access** was successfully configured.
 
-<img width="1918" height="910" alt="05 – Configure Calendar Permissions and Delegation" src="https://github.com/user-attachments/assets/86c6dce5-2c8c-4438-85ec-6f66ff29fa73" />
+<img width="1919" height="917" alt="06 – Configure Calendar Permissions and Delegation" src="https://github.com/user-attachments/assets/ba937982-f78b-486d-81e6-d90de53291b4" />
