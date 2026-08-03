@@ -92,9 +92,7 @@ Configure **Global Address List (GAL) visibility** to control whether a user app
 
 ## Implementation
 
-I configured **Global Address List visibility** through the **Microsoft 365 Admin Center** by hiding the selected user from the organisation's address list. This setting allows the mailbox to continue receiving emails while preventing it from appearing in the Global Address List.
-
-This is commonly used for service accounts, shared mailboxes, and users who should not be visible within the organisation's address directory.
+I configured **Global Address List visibility** through the **Microsoft 365 Admin Center** by hiding the selected user from the organisation's address list. This setting allows the mailbox to continue receiving emails while preventing it from appearing in the Global Address List. This is commonly used for service accounts, shared mailboxes, and users who should not be visible within the organisation's address directory.
 
 ---
 
@@ -120,5 +118,3 @@ I successfully configured **Global Address List visibility** by hiding the selec
 ## Screenshot
 
 **Figure 1:** Configuring **Global Address List visibility** for a Microsoft 365 user within the Microsoft 365 Admin Center.
-
-<img width="1919" height="914" alt="Screenshot 2026-08-03 140617" src="https://github.com/user-attachments/assets/cc94079c-9f25-4fed-83b2-4c409388bf91" />
