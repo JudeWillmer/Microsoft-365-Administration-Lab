@@ -36,3 +36,48 @@ I successfully configured **email forwarding** for the user mailbox, ensuring in
 **Figure 1:** Configuring **email forwarding** for a user mailbox in the **Microsoft 365 Admin Center**.
 
 <img width="1919" height="915" alt="01 – Configure Mail Forwarding" src="https://github.com/user-attachments/assets/2adfd044-3d5d-43d6-bff1-7af4d218e1ba" />
+
+# Task 2 - Manage Mailbox Permissions
+
+## Objective
+
+Configure **mailbox permissions** to allow another user to access and manage a mailbox. This includes assigning **Read and Manage (Full Access)** permissions for common collaboration and support scenarios.
+
+---
+
+## Implementation
+
+I configured **Read and Manage** mailbox permissions through the **Microsoft 365 Admin Center** by granting another user access to an existing mailbox. This allows the assigned user to open and manage the mailbox without requiring the mailbox owner's credentials.
+
+I also reviewed the available **Send As** and **Send on Behalf** permission options, along with the process of removing mailbox permissions, to understand the different access levels available for mailbox administration.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└── Users
+    └── Active users
+        └── Mario Katoch
+            └── Mail
+                └── Read and manage permissions
+```
+
+---
+
+## Outcome
+
+I successfully assigned **Read and Manage** mailbox permissions to another user, allowing delegated access to the mailbox. This demonstrates a common **Microsoft 365 Help Desk** task used when supporting shared mailbox access and user collaboration.
+
+---
+
+## Screenshots
+
+**Figure 1:** Accessing **Mailbox Permissions** from the user's **Mail** settings within the Microsoft 365 Admin Center.
+
+<img width="1919" height="915" alt="02 – Manage Mailbox Permissions" src="https://github.com/user-attachments/assets/ec9a04ec-cdb1-4c89-9dd8-4f1847a9ec07" />
+
+**Figure 2:** **Read and Manage** mailbox permission successfully assigned to **Jude Willmer**.
+
+<img width="1919" height="913" alt="03 – Manage Mailbox Permissions" src="https://github.com/user-attachments/assets/5dc337f6-194b-4cbd-8e0a-456beccb2039" />
