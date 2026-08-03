@@ -45,7 +45,7 @@ Manage Microsoft 365 users, administrator roles, and service health using the Mi
 
 ### 📁 03 - Mailbox and Calendar Management
 
-Manage shared mailboxes, delegation, Send As permissions, and calendar sharing to support common business requirements.
+Manage mailbox forwarding, mailbox permissions, Global Address List visibility, and calendar sharing to support common Microsoft 365 Help Desk requests.
 
 ### 📁 04 - Microsoft 365 Groups
 
