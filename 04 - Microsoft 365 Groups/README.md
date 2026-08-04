@@ -130,3 +130,44 @@ I successfully created a new **IT Support Distribution Group** and confirmed it 
 **Figure 2:** The newly created **IT Support Distribution Group** displayed within the **Distribution lists** section.
 
 <img width="1919" height="912" alt="06 – Create a Distribution Group" src="https://github.com/user-attachments/assets/65a71496-86e3-4caa-9502-5350f4a86d15" />
+
+# Task 4 - Configure Distribution Group Settings
+
+## Objective
+
+Configure a **Distribution Group** to allow email from both internal and external senders, supporting common business communication requirements.
+
+---
+
+## Implementation
+
+I configured the **IT Support** Distribution Group through the **Microsoft 365 Admin Center** by enabling the option to allow external senders to email the group.
+
+After saving the configuration, I verified that the setting was successfully applied.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└─ Teams & groups
+   └─ Active teams & groups
+      └─ Distribution lists
+         └─ IT Support
+            └─ Settings
+```
+
+---
+
+## Outcome
+
+I successfully configured the **IT Support Distribution Group** to accept email from both internal and external senders, confirming the configuration was saved successfully.
+
+---
+
+## Screenshots
+
+**Figure 1:** Configuring the **IT Support Distribution Group** to allow external senders, with the successful configuration confirmation displayed.
+
+<img width="1919" height="913" alt="07 – Configure Distribution Group Settings" src="https://github.com/user-attachments/assets/06d0b6a1-269b-4f73-94e8-02f2e72e6333" />
