@@ -86,3 +86,47 @@ I successfully added **Nancy Smith** to the **HR Microsoft 365 Group** and confi
 **Figure 2:** The updated **HR** group membership list showing **Nancy Smith** successfully added.
 
 <img width="1919" height="913" alt="04 – Manage Group Membership" src="https://github.com/user-attachments/assets/b9686210-1b60-4c19-9a85-b16b2156666c" />
+
+# Task 3 - Create a Distribution Group
+
+## Objective
+
+Create a new **Distribution Group** to simplify email communication by allowing messages to be sent to multiple users through a single email address.
+
+---
+
+## Implementation
+
+I created a new **Distribution Group** through the **Microsoft 365 Admin Center** by specifying the group name, description, owners, members, and group email address.
+
+After completing the configuration, I verified that the **IT Support** Distribution Group was successfully created and appeared within the list of active Distribution Groups.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└─ Teams & groups
+   └─ Active teams & groups
+      └─ Distribution lists
+         └─ Add a distribution list
+```
+
+---
+
+## Outcome
+
+I successfully created a new **IT Support Distribution Group** and confirmed it appeared within the **Distribution lists** section of the Microsoft 365 Admin Center.
+
+---
+
+## Screenshots
+
+**Figure 1:** Configuring the **IT Support Distribution Group**, including the group email address and communication settings.
+
+<img width="1919" height="912" alt="05 – Create a Distribution Group" src="https://github.com/user-attachments/assets/39c07d8b-f947-451c-938d-4023b80c47fb" />
+
+**Figure 2:** The newly created **IT Support Distribution Group** displayed within the **Distribution lists** section.
+
+<img width="1919" height="912" alt="06 – Create a Distribution Group" src="https://github.com/user-attachments/assets/65a71496-86e3-4caa-9502-5350f4a86d15" />
