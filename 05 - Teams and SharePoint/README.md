@@ -113,7 +113,7 @@ I successfully configured the **Global Meeting Policy** by disabling anonymous m
 
 <img width="1919" height="915" alt="04 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/7732c734-a0dc-4aba-854b-69f895ab958f" />
 
-**Figure 2:** **Meeting Policies** page confirming the policy was successfully updated.
+**Figure 3:** **Meeting Policies** page confirming the policy was successfully updated.
 
 <img width="1919" height="915" alt="05 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/881cb18f-1416-4049-9845-c3900a36af66" />
 
