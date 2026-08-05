@@ -71,3 +71,50 @@ I successfully configured the **Guest Access** settings by disabling external gu
 **Figure 1:** Guest Access settings configured within the **Microsoft Teams Admin Center**, showing guest access disabled and the successful save confirmation message.
 
 <img width="1919" height="915" alt="02 – Configure Guest Access" src="https://github.com/user-attachments/assets/4cce4e1c-437f-4c43-84c3-acec65d37115" />
+
+# Task 3 - Configure Meeting Policies
+
+## Objective
+
+Configure **Meeting Policies** in the **Microsoft Teams Admin Center** to control meeting security settings such as anonymous meeting access and meeting recording.
+
+---
+
+## Implementation
+
+I configured the **Global Meeting Policy** within the **Microsoft Teams Admin Center** by disabling anonymous meeting access and meeting recording to demonstrate common security configurations used to protect Microsoft Teams meetings.
+
+---
+
+## Navigation
+
+```text
+Microsoft Teams admin center
+└── Meetings
+    └── Meeting policies
+        └── Global (Org-wide default)
+```
+
+---
+
+## Outcome
+
+I successfully configured the **Global Meeting Policy** by disabling anonymous meeting access and meeting recording, then confirmed the policy was successfully updated.
+
+---
+
+## Screenshots
+
+**Figure 1:** Meeting Join & Lobby settings showing **Anonymous users** configured.
+
+<img width="1919" height="913" alt="03 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/afa02fc3-0dba-4b0d-b8ed-61c3a85e6036" />
+
+**Figure 2:** Recording & Transcription settings showing **Meeting recording** configured.
+
+<img width="1919" height="915" alt="04 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/7732c734-a0dc-4aba-854b-69f895ab958f" />
+
+**Figure 3:** Meeting Policies page confirming the policy was successfully updated.
+
+<img width="1919" height="915" alt="05 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/881cb18f-1416-4049-9845-c3900a36af66" />
+
+---
