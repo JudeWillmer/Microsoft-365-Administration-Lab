@@ -204,3 +204,46 @@ I successfully managed the **SharePoint Site Permissions** by reviewing the site
 **Figure 2:** **Group membership** page showing the successful addition of a new member to the **Helpdesk Members** group, confirming that site permissions were updated successfully.
 
 <img width="1919" height="916" alt="09 – Manage SharePoint Site Permissions" src="https://github.com/user-attachments/assets/a36cb3c0-c3e9-4de4-9200-5e8078352c0d" />
+
+# Task 6 - Share a SharePoint Site
+
+## Objective
+
+Share an existing **SharePoint Team Site** with another user to provide access for collaboration. This demonstrates a common Help Desk task of granting users access to SharePoint resources.
+
+---
+
+## Implementation
+
+I shared the **Helpdesk** SharePoint Team Site by opening the site's **Share** option, selecting a user, and sending an invitation to access the site. After the invitation was sent, SharePoint confirmed that the user had been successfully invited.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└─ SharePoint
+   └─ Active sites
+      └─ Helpdesk
+         └─ View site
+            └─ Share
+```
+
+---
+
+## Outcome
+
+I successfully shared the **Helpdesk** SharePoint Team Site with a user by sending a SharePoint invitation. The invitation was accepted by SharePoint, confirming that access had been granted through the site's sharing feature.
+
+---
+
+## Screenshots
+
+**Figure 1:** Share window for the **Helpdesk** SharePoint Team Site with the selected user added before sending the invitation.
+
+<img width="1919" height="913" alt="10 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/d7dd3d69-0d8c-445f-aea7-d703efe7be54" />
+
+**Figure 2:** SharePoint confirmation showing that the invitation was successfully sent to the selected user.
+
+<img width="1918" height="913" alt="11 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/f1bd0bfd-f7bf-443f-ae45-78a7cd39b7ea" />
