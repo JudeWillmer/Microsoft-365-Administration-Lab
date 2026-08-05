@@ -113,7 +113,7 @@ I successfully configured the **Global Meeting Policy** by disabling anonymous m
 
 <img width="1919" height="915" alt="04 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/7732c734-a0dc-4aba-854b-69f895ab958f" />
 
-**Figure 3:** Meeting Policies page confirming the policy was successfully updated.
+**Figure 2:** **Meeting Policies** page confirming the policy was successfully updated.
 
 <img width="1919" height="915" alt="05 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/881cb18f-1416-4049-9845-c3900a36af66" />
 
@@ -153,7 +153,7 @@ I successfully created a new **SharePoint Team Site** for the Help Desk departme
 
 ## Screenshots
 
-**Figure 1:** SharePoint Team Site creation wizard showing the site name, description, group owner, and site configuration.
+**Figure 1:** **SharePoint Team Site** creation wizard showing the **Site name**, **Site description**, **Group owner**, and **Site configuration**.
 
 <img width="1919" height="917" alt="06 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/f734d880-f902-4ef1-9deb-87c2a6d4171c" />
 
@@ -244,6 +244,6 @@ I successfully shared the **Helpdesk** SharePoint Team Site with a user by sendi
 
 <img width="1919" height="913" alt="10 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/d7dd3d69-0d8c-445f-aea7-d703efe7be54" />
 
-**Figure 2:** SharePoint confirmation showing that the invitation was successfully sent to the selected user.
+**Figure 2:** **SharePoint** confirmation showing that the invitation was successfully sent to the selected user.
 
 <img width="1918" height="913" alt="11 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/f1bd0bfd-f7bf-443f-ae45-78a7cd39b7ea" />
