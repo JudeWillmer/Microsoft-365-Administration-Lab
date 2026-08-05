@@ -118,3 +118,45 @@ I successfully configured the **Global Meeting Policy** by disabling anonymous m
 <img width="1919" height="915" alt="05 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/881cb18f-1416-4049-9845-c3900a36af66" />
 
 ---
+
+# Task 4 - Create a SharePoint Team Site
+
+## Objective
+
+Create a **SharePoint Team Site** within the **SharePoint Admin Center** to provide a dedicated collaboration space for the IT Help Desk team. This demonstrates a common Microsoft 365 administration task used to provision departmental sites for document management and team collaboration.
+
+---
+
+## Implementation
+
+I created a new **SharePoint Team Site** using the **IT Help Desk** template and configured the site with an appropriate name, description, group owner, and private access permissions. After completing the site creation wizard, I verified that the new site was successfully created and appeared within the list of Active Sites.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└── SharePoint
+    └── Active sites
+        └── Create
+            └── Team site
+```
+
+---
+
+## Outcome
+
+I successfully created a new **SharePoint Team Site** for the Help Desk department and confirmed that it was provisioned correctly within the SharePoint Admin Center. The site is now available for collaboration, document storage, and future permission management.
+
+---
+
+## Screenshots
+
+**Figure 1:** SharePoint Team Site creation wizard showing the site name, description, group owner, and site configuration.
+
+<img width="1919" height="917" alt="06 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/f734d880-f902-4ef1-9deb-87c2a6d4171c" />
+
+**Figure 2:** Newly created **Helpdesk** Team Site displayed within **Active Sites**, confirming successful site creation.
+
+<img width="1919" height="914" alt="07 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/4721e666-87c7-4331-9e86-3a85dd1e7065" />
