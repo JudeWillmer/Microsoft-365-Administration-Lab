@@ -35,3 +35,39 @@ I successfully configured the **Microsoft Teams organization settings** by updat
 **Figure 1:** Configuring the **Microsoft Teams organization settings** by updating the available **Files** integrations and confirming the successful save notification.
 
 <img width="1919" height="913" alt="01 – Configure Microsoft Teams Organization Settings" src="https://github.com/user-attachments/assets/9c6b68e0-9d04-41ed-ac62-7c7b18c7cca2" />
+
+# Task 2 - Configure Guest Access
+
+## Objective
+
+Configure **Guest Access** in the **Microsoft Teams Admin Center** to control what external users are permitted to do within Microsoft Teams. This is a common security administration task used to manage collaboration with users outside the organisation.
+
+---
+
+## Implementation
+
+I configured the **Guest Access** settings within the **Microsoft Teams Admin Center** by disabling guest access for external users. After saving the configuration, I verified that the changes were successfully applied and confirmed by the on-screen success notification.
+
+---
+
+## Navigation
+
+```text
+Microsoft Teams admin center
+└─ External collaboration
+   └─ Guest access
+```
+
+---
+
+## Outcome
+
+I successfully configured the **Guest Access** settings by disabling external guest access and confirmed the configuration was saved successfully.
+
+---
+
+## Screenshots
+
+**Figure 1:** Guest Access settings configured within the **Microsoft Teams Admin Center**, showing guest access disabled and the successful save confirmation message.
+
+<img width="1919" height="915" alt="02 – Configure Guest Access" src="https://github.com/user-attachments/assets/4cce4e1c-437f-4c43-84c3-acec65d37115" />
