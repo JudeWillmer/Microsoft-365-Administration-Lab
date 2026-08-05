@@ -53,7 +53,7 @@ Create and manage Distribution Groups and Microsoft 365 Groups while maintaining
 
 ### 📁 05 - Teams and SharePoint
 
-Support collaboration by administering Microsoft Teams, creating SharePoint sites, managing permissions, and fulfilling common user access requests.
+Support collaboration by administering Microsoft Teams, creating SharePoint sites, managing permissions, and handling common user access requests.
 
 ### 📁 06 - Troubleshooting
 
