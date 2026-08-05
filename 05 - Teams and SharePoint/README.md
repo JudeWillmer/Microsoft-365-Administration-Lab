@@ -160,3 +160,47 @@ I successfully created a new **SharePoint Team Site** for the Help Desk departme
 **Figure 2:** Newly created **Helpdesk** Team Site displayed within **Active Sites**, confirming successful site creation.
 
 <img width="1919" height="914" alt="07 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/4721e666-87c7-4331-9e86-3a85dd1e7065" />
+
+# Task 5 - Manage SharePoint Site Permissions
+
+## Objective
+
+Manage **SharePoint Site Permissions** for the **Helpdesk** team site by reviewing existing permission groups, controlling member access, and adding a new member to the site.
+
+---
+
+## Implementation
+
+I managed the **SharePoint Site Permissions** for the **Helpdesk** team site by accessing the site's permissions panel and reviewing the configured **Owners**, **Members**, and **Visitors** groups. I verified the site's sharing configuration and added a new member to the **Helpdesk Members** group to grant access to the site.
+
+---
+
+## Navigation
+
+```text
+Microsoft 365 Admin Center
+└─ SharePoint
+   └─ Active sites
+      └─ Helpdesk
+         └─ View site
+            └─ Settings
+               └─ Site permissions
+```
+
+---
+
+## Outcome
+
+I successfully managed the **SharePoint Site Permissions** by reviewing the site's permission groups and adding a new member to the **Helpdesk Members** group. This ensures that authorized users can securely access the SharePoint site while maintaining appropriate permission management.
+
+---
+
+## Screenshots
+
+**Figure 1:** SharePoint **Site Permissions** panel for the **Helpdesk** site, displaying the configured **Owners**, **Members**, and **Visitors** groups, along with the available site sharing management options.
+
+<img width="1919" height="916" alt="08 – Manage SharePoint Site Permissions" src="https://github.com/user-attachments/assets/ff3a0e06-74de-482a-a9cb-44f900dcbc66" />
+
+**Figure 2:** **Group membership** page showing the successful addition of a new member to the **Helpdesk Members** group, confirming that site permissions were updated successfully.
+
+<img width="1919" height="916" alt="09 – Manage SharePoint Site Permissions" src="https://github.com/user-attachments/assets/a36cb3c0-c3e9-4de4-9200-5e8078352c0d" />
