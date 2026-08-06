@@ -43,3 +43,57 @@ A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** 
 **Figure 2:** **Microsoft Outlook** successfully launched in **Safe Mode**.
 
 <img width="1918" height="915" alt="02 – Launch Outlook in Safe Mode" src="https://github.com/user-attachments/assets/a0485bef-eb11-4bbc-801f-1e3a6701b919" />
+
+# Task 2 - Troubleshoot Slow Outlook Performance
+
+## Objective
+
+Troubleshoot **slow Microsoft Outlook performance** by reviewing installed **COM add-ins** and preparing a **Microsoft 365 Quick Repair** to resolve application-related issues.
+
+---
+
+## Implementation
+
+I reviewed the installed **COM add-ins** within **Microsoft Outlook** to identify any unnecessary or problematic add-ins that could impact performance. I then navigated to **Microsoft 365 Apps** in **Programs and Features** and accessed the **Quick Repair** option, which repairs common Office application issues without requiring an internet connection.
+
+---
+
+## Navigation
+
+```text
+Outlook
+└── File
+    └── Options
+        └── Add-ins
+            └── COM Add-ins
+
+Control Panel
+└── Programs and Features
+    └── Microsoft 365 Apps
+        └── Change
+            └── Quick Repair
+```
+
+---
+
+## Outcome
+
+I successfully reviewed the installed **COM add-ins** and verified that the **Microsoft 365 Quick Repair** option was available. These are common troubleshooting steps used to resolve **slow Outlook performance** caused by faulty add-ins or corrupted Office application files.
+
+---
+
+## Scenario
+
+A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** is responding slowly or frequently freezing. I investigated the issue by reviewing the installed **COM add-ins** for unnecessary or problematic extensions before preparing a **Microsoft 365 Quick Repair** to resolve any corrupted Office application files. These are standard troubleshooting steps used to improve Outlook performance before progressing to more advanced diagnostics.
+
+---
+
+## Screenshot
+
+**Figure 1:** Reviewing installed **COM Add-ins** in **Microsoft Outlook**.
+
+<img width="1918" height="915" alt="03 – Troubleshoot Slow Outlook Performance" src="https://github.com/user-attachments/assets/61bcc5de-9192-456a-90a6-e409fa726a6a" />
+
+**Figure 2:** Accessing the **Microsoft 365 Quick Repair** option from **Programs and Features**.
+
+<img width="1919" height="918" alt="04 – Troubleshoot Slow Outlook Performance" src="https://github.com/user-attachments/assets/cf56d175-6d9a-4529-855b-6858e5826280" />
