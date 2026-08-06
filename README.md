@@ -30,7 +30,7 @@ Throughout this project, I configured **Microsoft Outlook**, administered **Exch
 - Microsoft 365 Groups
 - Teams administration
 - SharePoint permissions
-- Microsoft 365 troubleshooting
+- Microsoft 365 and Outlook troubleshooting
 
 ---
 
