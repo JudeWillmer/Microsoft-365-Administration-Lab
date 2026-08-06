@@ -102,7 +102,7 @@ A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** 
 
 ## Objective
 
-Troubleshoot Outlook search issues by rebuilding the Windows Search index to restore accurate and complete search results.
+Troubleshoot **Outlook search issues** by rebuilding the **Windows Search index** to restore accurate and complete search results.
 
 ---
 
