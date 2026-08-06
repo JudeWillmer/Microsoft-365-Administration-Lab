@@ -206,3 +206,52 @@ A user reported that Outlook was no longer sending or receiving email. During tr
 **Figure 2:** Reviewing **Junk Email Options** to investigate whether email filtering settings are preventing messages from reaching the user's Inbox.
 
 <img width="1919" height="914" alt="08 – Troubleshoot Sending and Receiving Email Issues" src="https://github.com/user-attachments/assets/4ceaf103-faa4-4b58-9116-147ae57af798" />
+
+# Task 5 - Troubleshoot Microsoft Word Application Issues
+
+## Objective
+
+Resolve **Microsoft Word application freezes** by using **Task Manager** to safely **end the Microsoft Word process** when the application becomes unresponsive.
+
+---
+
+## Implementation
+
+I reviewed the running **Microsoft Word** process within **Task Manager** and identified how to terminate the application using the **End task** option.
+
+Ending the Word process is a common troubleshooting step when the application stops responding and cannot be closed normally. After terminating the process, Microsoft Word can be reopened to confirm that it launches and functions correctly.
+
+---
+
+## Navigation
+
+```text
+Task Manager
+└── Processes
+    └── Microsoft Word
+        └── End task
+```
+
+---
+
+## Outcome
+
+I successfully identified the **Microsoft Word** process and verified the **End task** option within **Task Manager**. This confirms the correct troubleshooting procedure for closing an unresponsive Word session before reopening the application.
+
+---
+
+## Scenario
+
+A user contacts the **IT Help Desk** after reporting that **Microsoft Word has frozen** and is no longer responding. I investigated the issue by opening **Task Manager**, locating the **Microsoft Word** process, and confirming that the application could be terminated using **End task**. After restarting Microsoft Word, I verified that the application opened normally and was functioning correctly.
+
+---
+
+## Screenshot
+
+**Figure 1:** Microsoft Word running with a test document open prior to troubleshooting.
+
+<img width="1919" height="915" alt="09 – Troubleshoot Microsoft Word Application Issues" src="https://github.com/user-attachments/assets/fba0f537-0f7b-4fb9-91dc-4ed87a35fad5" />
+
+**Figure 2:** Using **Task Manager** to locate **Microsoft Word** and access the **End task** option.
+
+<img width="1919" height="916" alt="10 – Troubleshoot Microsoft Word Application Issues" src="https://github.com/user-attachments/assets/037a34a6-55c6-4e7b-a02b-9654a8ebef9f" />
