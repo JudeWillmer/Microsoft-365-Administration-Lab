@@ -256,9 +256,7 @@ Troubleshoot **Microsoft Excel workbook issues** by using the built-in **Open an
 
 ## Implementation
 
-I selected an Excel workbook and accessed the **Open and Repair** option from the **Open** drop-down menu. This feature allows Microsoft Excel to check the workbook for corruption and attempt to recover as much data as possible.
-
-I also reviewed the **Trust Center** within **Excel Options**. The Trust Center contains security settings such as **Protected View**, **trusted locations**, **macros**, and **trusted documents**, which can affect whether a workbook opens or functions correctly.
+I selected an Excel workbook and accessed the **Open and Repair** option from the **Open** drop-down menu. This feature allows Microsoft Excel to check the workbook for corruption and attempt to recover as much data as possible. I also reviewed the **Trust Center** within **Excel Options**. The Trust Center contains security settings such as **Protected View**, **trusted locations**, **macros**, and **trusted documents**, which can affect whether a workbook opens or functions correctly.
 
 ---
 
@@ -289,9 +287,7 @@ I successfully located the **Open and Repair** feature used to recover damaged E
 
 ## Scenario
 
-A user contacts the **IT Help Desk** after reporting that a **Microsoft Excel workbook** will not open correctly or may be corrupted. I investigated the issue by selecting the workbook and accessing **Open and Repair** to check whether Excel could recover the file.
-
-I also reviewed the **Trust Center** settings to determine whether **Protected View**, **macros**, or another security setting was affecting the workbook. If the repair was unsuccessful, I would attempt to extract the workbook data or test the file on another device.
+A user contacts the **IT Help Desk** after reporting that a **Microsoft Excel workbook** will not open correctly or may be corrupted. I investigated the issue by selecting the workbook and accessing **Open and Repair** to check whether Excel could recover the file. I also reviewed the **Trust Center** settings to determine whether **Protected View**, **macros**, or another security setting was affecting the workbook. If the repair was unsuccessful, I would attempt to extract the workbook data or test the file on another device.
 
 ---
 
