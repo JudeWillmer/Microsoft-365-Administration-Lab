@@ -57,4 +57,4 @@ Support collaboration by administering Microsoft Teams, creating SharePoint site
 
 ### 📁 06 - Troubleshooting
 
-Investigate and resolve common Microsoft 365 issues affecting Outlook, Exchange Online, Teams, SharePoint, and user access.
+Investigate and resolve common Microsoft 365 application issues, including Outlook email problems, search indexing, Microsoft Word and Excel application issues, and document recovery.
