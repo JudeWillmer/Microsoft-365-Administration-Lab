@@ -8,7 +8,9 @@ Diagnose an **Outlook startup issue** by launching **Microsoft Outlook** in **Sa
 
 ## Implementation
 
-I launched **Microsoft Outlook** in **Safe Mode** using the **Run** dialog and the command `outlook.exe /safe`. Safe Mode disables **COM add-ins** and Outlook customizations, allowing Outlook to start with only the essential components. This is a common first troubleshooting step used to determine whether an Outlook startup issue is caused by a faulty add-in rather than the Outlook application itself.
+I launched **Microsoft Outlook** in **Safe Mode** using the **Run** dialog and the command `outlook.exe /safe`.
+
+Safe Mode disables **COM add-ins** and Outlook customizations, allowing Outlook to start with only the essential components. This is a common first troubleshooting step used to determine whether an Outlook startup issue is caused by a faulty add-in rather than the Outlook application itself.
 
 ---
 
