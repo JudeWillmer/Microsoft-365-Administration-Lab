@@ -30,7 +30,7 @@ I successfully launched **Microsoft Outlook** in **Safe Mode**, confirming that 
 
 ## Scenario
 
-A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** crashes or fails to open. I investigated the issue by launching Outlook in **Safe Mode**, which disables **COM add-ins** and customizations. Outlook opened successfully, confirming that the installation was functioning correctly and indicating that the issue was most likely caused by a faulty add-in or user profile. The next troubleshooting step would be to disable unnecessary add-ins or create a new Outlook profile if required.
+A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** crashes or fails to open. I investigated the issue by launching Outlook in **Safe Mode**, which disables **COM add-ins** and customizations. Outlook opened successfully in **Safe Mode**, indicating that the issue was likely related to a **COM add-in** or the user's **Outlook profile**. I would then continue troubleshooting by disabling unnecessary add-ins or creating a new Outlook profile if required.
 
 ---
 
