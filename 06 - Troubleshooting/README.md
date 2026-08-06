@@ -128,7 +128,7 @@ Outlook
 
 ## Outcome
 
-I successfully identified the Windows Search indexing configuration and verified the process for rebuilding the Outlook search index. This troubleshooting method is commonly performed when Outlook search returns incomplete results or fails to locate emails correctly.
+I successfully identified the **Windows Search indexing configuration** and verified the process for **rebuilding the Outlook search index**. This **troubleshooting method** is commonly performed when **Outlook search** returns incomplete results or fails to locate emails correctly.
 
 ---
 
@@ -185,7 +185,7 @@ I successfully verified that Outlook was connected to Microsoft 365 by confirmin
 
 ## Scenario
 
-A user reported that Outlook was no longer sending or receiving email. During troubleshooting, I confirmed that **Work Offline** mode was not preventing Outlook from connecting to Microsoft 365. I also reviewed the **Junk Email** settings to verify that legitimate messages were not being incorrectly filtered or blocked. After completing these checks, Outlook was confirmed to be connected normally and email filtering settings were verified.
+A user reported that **Outlook** was no longer **sending or receiving email**. During troubleshooting, I confirmed that **Work Offline** mode was not preventing Outlook from connecting to **Microsoft 365**. I also reviewed the **Junk Email** settings to verify that legitimate messages were not being incorrectly filtered or blocked. After completing these checks, Outlook was confirmed to be connected normally and **email filtering settings** were verified.
 
 ---
 
