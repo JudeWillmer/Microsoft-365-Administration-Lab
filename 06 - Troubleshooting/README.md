@@ -97,3 +97,55 @@ A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** 
 **Figure 2:** Accessing the **Microsoft 365 Quick Repair** option from **Programs and Features**.
 
 <img width="1919" height="918" alt="04 – Troubleshoot Slow Outlook Performance" src="https://github.com/user-attachments/assets/cf56d175-6d9a-4529-855b-6858e5826280" />
+
+# Task 3 - Troubleshoot Outlook Search Issues
+
+## Objective
+
+Troubleshoot Outlook search issues by rebuilding the Windows Search index to restore accurate and complete search results.
+
+---
+
+## Implementation
+
+I investigated an Outlook search issue by accessing the **Search** settings within **Outlook Options** and opening the **Windows Indexing Options**.
+
+From the **Advanced Index Settings**, I reviewed the indexing configuration and identified the **Rebuild** option used to recreate the Windows Search index. Rebuilding the index refreshes Outlook's search database and is a common Help Desk troubleshooting step when users experience missing or incomplete search results.
+
+---
+
+## Navigation
+
+```text
+Outlook
+└── File
+    └── Options
+        └── Search
+            └── Indexing Options
+                └── Advanced
+                    └── Rebuild
+```
+
+---
+
+## Outcome
+
+I successfully identified the Windows Search indexing configuration and verified the process for rebuilding the Outlook search index. This troubleshooting method is commonly performed when Outlook search returns incomplete results or fails to locate emails correctly.
+
+---
+
+## Scenario
+
+A user contacted the IT Help Desk after reporting that Outlook search was unable to find recent emails. I investigated the issue by reviewing the Outlook **Search** settings and opening the **Windows Indexing Options**. From the **Advanced Index Settings**, I located the **Rebuild** option used to recreate the Windows Search index before advising the user that rebuilding the index is a standard troubleshooting step for resolving Outlook search issues.
+
+---
+
+## Screenshot
+
+**Figure 1:** Outlook **Search Options** showing access to **Windows Indexing Options** for troubleshooting Outlook search functionality.
+
+<img width="1919" height="914" alt="05 – Troubleshoot Outlook Search Issues" src="https://github.com/user-attachments/assets/8bf04a1e-a119-4d18-af6c-0224b8f65ff7" />
+
+**Figure 2:** **Advanced Index Settings** displaying the **Rebuild** option used to recreate the Windows Search index.
+
+<img width="1919" height="914" alt="06 – Troubleshoot Outlook Search Issues" src="https://github.com/user-attachments/assets/335a7cbe-7e57-45d1-a746-939175dd47f1" />
