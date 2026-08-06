@@ -245,3 +245,62 @@ A user contacts the **IT Help Desk** after reporting that **Microsoft Word has f
 **Figure 2:** Using **Task Manager** to locate **Microsoft Word** and access the **End task** option.
 
 <img width="1919" height="916" alt="10 – Troubleshoot Microsoft Word Application Issues" src="https://github.com/user-attachments/assets/037a34a6-55c6-4e7b-a02b-9654a8ebef9f" />
+
+# Task 6 - Troubleshoot Microsoft Excel File Issues
+
+## Objective
+
+Troubleshoot **Microsoft Excel workbook issues** by using the built-in **Open and Repair** feature and reviewing **Trust Center** settings that may affect how a workbook opens.
+
+---
+
+## Implementation
+
+I selected an Excel workbook and accessed the **Open and Repair** option from the **Open** drop-down menu. This feature allows Microsoft Excel to check the workbook for corruption and attempt to recover as much data as possible.
+
+I also reviewed the **Trust Center** within **Excel Options**. The Trust Center contains security settings such as **Protected View**, **trusted locations**, **macros**, and **trusted documents**, which can affect whether a workbook opens or functions correctly.
+
+---
+
+## Navigation
+
+```text
+Excel
+└── File
+    └── Open
+        └── Browse
+            └── Open ▼
+                └── Open and Repair
+
+Excel
+└── File
+    └── Options
+        └── Trust Center
+            └── Trust Center Settings
+```
+
+---
+
+## Outcome
+
+I successfully located the **Open and Repair** feature used to recover damaged Excel workbooks and verified access to the **Trust Center** security settings. These tools provide a practical troubleshooting method for workbook corruption and file access issues.
+
+---
+
+## Scenario
+
+A user contacts the **IT Help Desk** after reporting that a **Microsoft Excel workbook** will not open correctly or may be corrupted. I investigated the issue by selecting the workbook and accessing **Open and Repair** to check whether Excel could recover the file.
+
+I also reviewed the **Trust Center** settings to determine whether **Protected View**, **macros**, or another security setting was affecting the workbook. If the repair was unsuccessful, I would attempt to extract the workbook data or test the file on another device.
+
+---
+
+## Screenshot
+
+**Figure 1:** Accessing **Open and Repair** from the Excel **Open** drop-down menu.
+
+<img width="1919" height="913" alt="11 – Troubleshoot Microsoft Excel File Issues" src="https://github.com/user-attachments/assets/f3dc459d-067c-4d7b-aafd-7d199d9bd0ad" />
+
+**Figure 2:** Reviewing the **Trust Center** within **Excel Options**.
+
+<img width="1918" height="912" alt="12 – Troubleshoot Microsoft Excel File Issues" src="https://github.com/user-attachments/assets/a2c2216e-96e9-46e7-a99b-bb066881ebad" />
