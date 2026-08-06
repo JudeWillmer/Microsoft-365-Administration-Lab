@@ -149,3 +149,58 @@ A user contacted the IT Help Desk after reporting that Outlook search was unable
 **Figure 2:** **Advanced Index Settings** displaying the **Rebuild** option used to recreate the Windows Search index.
 
 <img width="1919" height="914" alt="06 – Troubleshoot Outlook Search Issues" src="https://github.com/user-attachments/assets/335a7cbe-7e57-45d1-a746-939175dd47f1" />
+
+# Task 4 - Troubleshoot Sending and Receiving Email Issues
+
+## Objective
+
+Identify common causes preventing **Outlook** from successfully **sending and receiving email** by checking **Work Offline** mode and reviewing **Junk Email** settings.
+
+---
+
+## Implementation
+
+I investigated common Outlook issues that can prevent users from sending or receiving email. As part of the troubleshooting process, I verified that **Work Offline** mode was not enabled, as this disconnects Outlook from Microsoft 365 and prevents mailbox synchronization.
+
+I also reviewed the **Junk Email** settings to determine whether legitimate messages were being filtered into the Junk Email folder due to configured filtering rules or blocked senders.
+
+These are common first-line troubleshooting steps performed before investigating account configuration or server-related issues.
+
+---
+
+## Navigation
+
+```text
+Outlook
+└─ Send / Receive
+   └─ Work Offline
+
+Outlook
+└─ Home
+   └─ Junk
+      └─ Junk Email Options
+```
+
+---
+
+## Outcome
+
+I successfully verified that Outlook was connected to Microsoft 365 by confirming **Work Offline** mode could be enabled and disabled. I also reviewed the **Junk Email** configuration to confirm that email filtering settings were not preventing legitimate messages from being delivered to the user's Inbox.
+
+---
+
+## Scenario
+
+A user reported that Outlook was no longer sending or receiving email. During troubleshooting, I confirmed that **Work Offline** mode was not preventing Outlook from connecting to Microsoft 365. I also reviewed the **Junk Email** settings to verify that legitimate messages were not being incorrectly filtered or blocked. After completing these checks, Outlook was confirmed to be connected normally and email filtering settings were verified.
+
+---
+
+## Screenshot
+
+**Figure 1:** Verifying **Work Offline** mode within the **Send / Receive** tab in Microsoft Outlook.
+
+<img width="1919" height="951" alt="07 – Troubleshoot Sending and Receiving Email Issues" src="https://github.com/user-attachments/assets/b3f782b3-0062-462f-9adf-5fc2c3515f65" />
+
+**Figure 2:** Reviewing **Junk Email Options** to investigate whether email filtering settings are preventing messages from reaching the user's Inbox.
+
+<img width="1919" height="914" alt="08 – Troubleshoot Sending and Receiving Email Issues" src="https://github.com/user-attachments/assets/4ceaf103-faa4-4b58-9116-147ae57af798" />
