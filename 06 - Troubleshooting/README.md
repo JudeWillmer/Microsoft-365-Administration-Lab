@@ -8,9 +8,7 @@ Diagnose an **Outlook startup issue** by launching **Microsoft Outlook** in **Sa
 
 ## Implementation
 
-I launched **Microsoft Outlook** in **Safe Mode** using the **Run** dialog and the command `outlook.exe /safe`.
-
-Safe Mode disables **COM add-ins** and Outlook customizations, allowing Outlook to start with only the essential components. This is a common first troubleshooting step used to determine whether an Outlook startup issue is caused by a faulty add-in rather than the Outlook application itself.
+I launched **Microsoft Outlook** in **Safe Mode** using the **Run** dialog and the command `outlook.exe /safe`. Safe Mode disables **COM add-ins** and Outlook customizations, allowing Outlook to start with only the essential components. This is a common first troubleshooting step used to determine whether an Outlook startup issue is caused by a faulty add-in rather than the Outlook application itself.
 
 ---
 
@@ -110,9 +108,7 @@ Troubleshoot **Outlook search issues** by rebuilding the **Windows Search index*
 
 ## Implementation
 
-I investigated an Outlook search issue by accessing the **Search** settings within **Outlook Options** and opening the **Windows Indexing Options**.
-
-From the **Advanced Index Settings**, I reviewed the indexing configuration and identified the **Rebuild** option used to recreate the Windows Search index. Rebuilding the index refreshes Outlook's search database and is a common Help Desk troubleshooting step when users experience missing or incomplete search results.
+I investigated an Outlook search issue by accessing the **Search** settings within **Outlook Options** and opening the **Windows Indexing Options**. From the **Advanced Index Settings**, I reviewed the indexing configuration and identified the **Rebuild** option used to recreate the Windows Search index. Rebuilding the index refreshes Outlook's search database and is a common Help Desk troubleshooting step when users experience missing or incomplete search results.
 
 ---
 
@@ -162,11 +158,7 @@ Identify common causes preventing **Outlook** from successfully **sending and re
 
 ## Implementation
 
-I investigated common Outlook issues that can prevent users from sending or receiving email. As part of the troubleshooting process, I verified that **Work Offline** mode was not enabled, as this disconnects Outlook from Microsoft 365 and prevents mailbox synchronization.
-
-I also reviewed the **Junk Email** settings to determine whether legitimate messages were being filtered into the Junk Email folder due to configured filtering rules or blocked senders.
-
-These are common first-line troubleshooting steps performed before investigating account configuration or server-related issues.
+I investigated common Outlook issues that can prevent users from sending or receiving email. As part of the troubleshooting process, I verified that **Work Offline** mode was not enabled, as this disconnects Outlook from Microsoft 365 and prevents mailbox synchronization. I also reviewed the **Junk Email** settings to determine whether legitimate messages were being filtered into the Junk Email folder due to configured filtering rules or blocked senders. These are common first-line troubleshooting steps performed before investigating account configuration or server-related issues.
 
 ---
 
@@ -217,9 +209,7 @@ Resolve **Microsoft Word application freezes** by using **Task Manager** to safe
 
 ## Implementation
 
-I reviewed the running **Microsoft Word** process within **Task Manager** and identified how to terminate the application using the **End task** option.
-
-Ending the Word process is a common troubleshooting step when the application stops responding and cannot be closed normally. After terminating the process, Microsoft Word can be reopened to confirm that it launches and functions correctly.
+I reviewed the running **Microsoft Word** process within **Task Manager** and identified how to terminate the application using the **End task** option. Ending the Word process is a common troubleshooting step when the application stops responding and cannot be closed normally. After terminating the process, Microsoft Word can be reopened to confirm that it launches and functions correctly.
 
 ---
 
