@@ -128,7 +128,7 @@ Outlook
 
 ## Outcome
 
-I successfully identified the **Windows Search indexing configuration** and verified the process for **rebuilding the Outlook search index**. This **troubleshooting method** is commonly performed when **Outlook search** returns incomplete results or fails to locate emails correctly.
+I successfully identified the **Windows Search indexing configuration** and verified the process for **rebuilding the Outlook search index**. This troubleshooting method is commonly performed when **Outlook search** returns incomplete results or fails to locate emails correctly.
 
 ---
 
