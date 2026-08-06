@@ -158,7 +158,7 @@ Identify common causes preventing **Outlook** from successfully **sending and re
 
 ## Implementation
 
-I investigated common Outlook issues that can prevent users from sending or receiving email. As part of the troubleshooting process, I verified that **Work Offline** mode was not enabled, as this disconnects Outlook from Microsoft 365 and prevents mailbox synchronization. I also reviewed the **Junk Email** settings to determine whether legitimate messages were being filtered into the Junk Email folder due to configured filtering rules or blocked senders. These are common first-line troubleshooting steps performed before investigating account configuration or server-related issues.
+I investigated common **Outlook issues** that can prevent users from sending or receiving email. As part of the **troubleshooting process**, I verified that **Work Offline** mode was not enabled, as this disconnects Outlook from **Microsoft 365** and prevents **mailbox synchronization**. I also reviewed the **Junk Email** settings to determine whether legitimate messages were being filtered into the Junk Email folder due to configured **filtering rules** or blocked senders. These are common **first-line troubleshooting** steps performed before investigating account configuration or server-related issues.
 
 ---
 
