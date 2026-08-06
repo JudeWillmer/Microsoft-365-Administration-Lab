@@ -15,8 +15,9 @@ Throughout this project, I configured **Microsoft Outlook**, administered **Exch
 - Exchange Online
 - Microsoft Outlook
 - Microsoft Teams
-- SharePoint
-- Microsoft Entra ID
+- SharePoint Online
+- Microsoft Word
+- Microsoft Excel
 
 ---
 
