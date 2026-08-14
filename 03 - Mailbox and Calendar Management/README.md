@@ -1,3 +1,11 @@
+# Mailbox and Calendar Management
+
+## Overview
+
+This section covers the core **mailbox and calendar management** tasks I completed within the **Microsoft 365** environment. I configured **email forwarding**, assigned **mailbox permissions**, managed **Global Address List (GAL) visibility**, and configured **calendar permissions and delegate access**. These tasks demonstrate practical mailbox administration and collaboration support skills commonly used within an **IT Support** environment.
+
+---
+
 # Task 1 - Configure Mail Forwarding
 
 ## Objective
