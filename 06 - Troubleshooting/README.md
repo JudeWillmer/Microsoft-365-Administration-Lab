@@ -1,3 +1,11 @@
+# Troubleshooting
+
+## Overview
+
+This section covers common **Microsoft 365 application issues** I investigated from an **IT Support** perspective. I troubleshot **Outlook startup, performance, search, and email connectivity issues**, alongside common **Microsoft Word** and **Microsoft Excel** problems. I used tools and techniques including **Outlook Safe Mode**, **COM Add-ins**, **Microsoft 365 Quick Repair**, **Windows Search indexing**, **Task Manager**, and built-in Office repair and security features to identify potential causes and resolve user-facing issues.
+
+---
+
 # Task 1 - Launch Outlook in Safe Mode
 
 ## Objective
