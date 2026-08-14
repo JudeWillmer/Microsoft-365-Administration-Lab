@@ -6,11 +6,11 @@ This section covers the core **Microsoft Teams** and **SharePoint** administrati
 
 ---
 
-# Task 1 - Configure Microsoft Teams Organization Settings
+# Task 1 - Configure Microsoft Teams Organisation Settings
 
 ## Objective
 
-Configure **Microsoft Teams organization-wide settings** to control which file storage integrations are available across the organisation.
+Configure **Microsoft Teams organisation-wide settings** to control which file storage integrations are available across the organisation.
 
 ---
 
