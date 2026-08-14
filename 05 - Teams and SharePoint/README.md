@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section covers the core **Microsoft Teams** and **SharePoint** administration tasks I completed within the **Microsoft 365** environment. I configured organisation-wide **Teams settings**, **Guest Access**, and **Meeting Policies**, before creating a **SharePoint Team Site** and managing its **permissions, membership, and user access**. These tasks demonstrate practical collaboration, access management, and user support skills commonly used within an **IT Support** environment.
+This section covers the core **Microsoft Teams** and **SharePoint** administration tasks I completed within the **Microsoft 365** environment. I configured organization-wide **Teams settings**, **Guest Access**, and **Meeting Policies**, before creating a **SharePoint Team Site** and managing its **permissions, membership, and user access**. These tasks demonstrate practical collaboration, access management, and user support skills commonly used within an **IT Support** environment.
 
 ---
 
