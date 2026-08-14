@@ -38,7 +38,7 @@ I successfully configured the **Microsoft Teams organisation settings** by updat
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Configuring the **Microsoft Teams organisation settings** by updating the available **Files** integrations and confirming the successful save notification.
 
@@ -74,7 +74,7 @@ I successfully configured the **Guest Access** settings by disabling external gu
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Guest Access settings configured within the **Microsoft Teams Admin Center**, showing guest access disabled and the successful save confirmation message.
 
@@ -111,7 +111,7 @@ I successfully configured the **Global Meeting Policy** by disabling anonymous m
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Meeting Join & Lobby settings showing **Anonymous users** configured.
 
@@ -159,7 +159,7 @@ I successfully created a new **SharePoint Team Site** for the Help Desk departme
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** **SharePoint Team Site** creation wizard showing the **Site name**, **Site description**, **Group owner**, and **Site configuration**.
 
@@ -203,7 +203,7 @@ I successfully managed the **SharePoint Site Permissions** by reviewing the site
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** SharePoint **Site Permissions** panel for the **Helpdesk** site, displaying the configured **Owners**, **Members**, and **Visitors** groups, along with the available site sharing management options.
 
@@ -246,7 +246,7 @@ I successfully shared the **Helpdesk** SharePoint Team Site with a user by sendi
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Share window for the **Helpdesk** SharePoint Team Site with the selected user added before sending the invitation.
 
