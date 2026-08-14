@@ -80,7 +80,7 @@ I successfully assigned **Read and Manage** mailbox permissions to another user,
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Accessing **Mailbox Permissions** from the user's **Mail** settings within the Microsoft 365 Admin Center.
 
