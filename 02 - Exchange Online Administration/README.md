@@ -39,7 +39,7 @@ I successfully created a new **Microsoft 365** user account, assigned a **Micros
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Creating a new **Microsoft 365** user account by entering the user's details in the **Microsoft 365 Admin Center**.
 
@@ -83,7 +83,7 @@ I successfully assigned the **Helpdesk Administrator** role to the user account 
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Opening the **Manage roles** settings from the selected user account within the **Microsoft 365 Admin Center**.
 
