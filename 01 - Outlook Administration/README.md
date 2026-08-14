@@ -1,3 +1,11 @@
+# Outlook Administration
+
+## Overview
+
+This section covers the core **Microsoft Outlook** tasks I completed within the **Microsoft 365 Administration** lab. I explored the Outlook interface and commonly used mailbox features, configured a professional **email signature**, and set up **Automatic Replies (Out of Office)** for internal and external recipients. These tasks demonstrate practical Outlook administration and user support skills commonly used within an **IT Support** environment.
+
+---
+
 # Task 1 - Outlook Overview and Navigation
 
 ## Objective
