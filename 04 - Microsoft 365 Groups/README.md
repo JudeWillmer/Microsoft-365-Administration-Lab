@@ -1,3 +1,11 @@
+# Microsoft 365 Groups
+
+## Overview
+
+This section covers the core **Microsoft 365 group management** tasks I completed within the Microsoft 365 environment. I created and managed a **Microsoft 365 Group**, configured **group membership**, created a **Distribution Group**, and enabled communication from **external senders**. These tasks demonstrate practical group administration and access management skills used to support collaboration and email communication within an **IT Support** environment.
+
+---
+
 # Task 1 - Create a Microsoft 365 Group
 
 ## Objective
