@@ -34,13 +34,13 @@ Microsoft Teams admin center
 
 ## Outcome
 
-I successfully configured the **Microsoft Teams organization settings** by updating the available file storage integrations and confirmed that the changes were successfully saved.
+I successfully configured the **Microsoft Teams organisation settings** by updating the available file storage integrations and confirmed that the changes were successfully saved.
 
 ---
 
 ## Screenshots
 
-**Figure 1:** Configuring the **Microsoft Teams organization settings** by updating the available **Files** integrations and confirming the successful save notification.
+**Figure 1:** Configuring the **Microsoft Teams organisation settings** by updating the available **Files** integrations and confirming the successful save notification.
 
 <img width="1919" height="913" alt="01 – Configure Microsoft Teams Organization Settings" src="https://github.com/user-attachments/assets/9c6b68e0-9d04-41ed-ac62-7c7b18c7cca2" />
 
