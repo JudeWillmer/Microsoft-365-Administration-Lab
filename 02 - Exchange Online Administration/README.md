@@ -1,3 +1,11 @@
+# Exchange Online Administration
+
+## Overview
+
+This section covers the core **Microsoft 365 administration** tasks I completed while supporting users and cloud services. I created and licensed a new **Microsoft 365 user account**, assigned the **Helpdesk Administrator** role using the principle of least privilege, and reviewed **Microsoft 365 Service Health** to identify and escalate potential service issues. These tasks demonstrate practical account provisioning, administrative access management, and service monitoring skills commonly used within an **IT Support** environment.
+
+---
+
 # Task 1 - Create a Microsoft 365 User Account
 
 ## Objective
