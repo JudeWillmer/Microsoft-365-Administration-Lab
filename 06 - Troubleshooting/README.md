@@ -42,7 +42,7 @@ A user contacts the **IT Help Desk** after reporting that **Microsoft Outlook** 
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Running `outlook.exe /safe` from the **Run** dialog.
 
