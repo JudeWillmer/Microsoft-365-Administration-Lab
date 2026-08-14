@@ -39,7 +39,7 @@ I successfully created a new **Microsoft 365 Group** and confirmed it appeared w
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Creating a new **Microsoft 365 Group** by configuring the group settings within the Microsoft 365 Admin Center.
 
@@ -85,7 +85,7 @@ I successfully added **Nancy Smith** to the **HR Microsoft 365 Group** and confi
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Selecting **Nancy Smith** to add to the **HR Microsoft 365 Group**.
 
@@ -129,7 +129,7 @@ I successfully created a new **IT Support Distribution Group** and confirmed it 
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Configuring the **IT Support Distribution Group**, including the group email address and communication settings.
 
@@ -174,7 +174,7 @@ I successfully configured the **IT Support Distribution Group** to accept email 
 
 ---
 
-## Screenshots
+## Screenshot
 
 **Figure 1:** Configuring the **IT Support Distribution Group** to allow external senders, with the successful configuration confirmation displayed.
 
