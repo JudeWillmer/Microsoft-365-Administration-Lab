@@ -18,6 +18,7 @@ Throughout this project, I configured **Microsoft Outlook**, administered **Exch
 - SharePoint Online
 - Microsoft Word
 - Microsoft Excel
+- Windows 10 Pro
 
 ---
 
