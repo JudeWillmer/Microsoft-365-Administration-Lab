@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This repository documents my **Microsoft 365 Administration** lab, where I practised common tasks performed by an **IT Support Technician** using **Microsoft 365** cloud services.
+This repository documents my Microsoft 365 Administration lab, where I practised common tasks performed by an IT Support Technician using Microsoft 365 cloud services.
 
-Throughout this project, I configured **Microsoft Outlook**, administered **Exchange Online**, managed **mailboxes**, **calendar permissions**, and **Microsoft 365 Groups**, while supporting collaboration through **Microsoft Teams** and **SharePoint**. I also completed common **Microsoft 365 troubleshooting** scenarios involving **Outlook**, **Microsoft Word**, and **Microsoft Excel** to develop a practical understanding of diagnosing and resolving user issues in a cloud environment.
+Throughout this project, I configured Microsoft Outlook, administered Exchange Online, managed mailboxes, calendar permissions, and Microsoft 365 Groups, while supporting collaboration through Microsoft Teams and SharePoint. I also completed common Microsoft 365 troubleshooting scenarios involving Outlook, Microsoft Word, and Microsoft Excel to develop a practical understanding of diagnosing and resolving user issues in a cloud environment.
 
 ---
 
