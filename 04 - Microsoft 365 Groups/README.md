@@ -170,12 +170,12 @@ Microsoft 365 Admin Center
 
 ## Outcome
 
-I successfully configured the **IT Support Distribution Group** to accept email from both internal and external senders, confirming the configuration was saved successfully.
+I successfully configured the IT Support Distribution Group to accept email from both internal and external senders, confirming the configuration was saved successfully.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Configuring the **IT Support Distribution Group** to allow external senders, with the successful configuration confirmation displayed.
+**Figure 1:** Configuring the IT Support Distribution Group to allow external senders, with the successful configuration confirmation displayed.
 
 <img width="1919" height="913" alt="07 – Configure Distribution Group Settings" src="https://github.com/user-attachments/assets/06d0b6a1-269b-4f73-94e8-02f2e72e6333" />
