@@ -131,13 +131,13 @@ I successfully configured the Global Meeting Policy by disabling anonymous meeti
 
 ## Objective
 
-Create a SharePoint Team Site within the SharePoint Admin Center** to provide a dedicated collaboration space for the IT Help Desk team. This demonstrates a common Microsoft 365 administration task used to provision departmental sites for document management and team collaboration.
+Create a SharePoint Team Site within the SharePoint Admin Center to provide a dedicated collaboration space for the IT Help Desk team. This demonstrates a common Microsoft 365 administration task used to provision departmental sites for document management and team collaboration.
 
 ---
 
 ## Implementation
 
-I created a new **SharePoint Team Site** using the **IT Help Desk** template and configured the site with an appropriate name, description, group owner, and private access permissions. After completing the site creation wizard, I verified that the new site was successfully created and appeared within the list of Active Sites.
+I created a new SharePoint Team Site using the IT Help Desk template and configured the site with an appropriate name, description, group owner, and private access permissions. After completing the site creation wizard, I verified that the new site was successfully created and appeared within the list of Active Sites.
 
 ---
 
@@ -155,17 +155,17 @@ Microsoft 365 Admin Center
 
 ## Outcome
 
-I successfully created a new **SharePoint Team Site** for the Help Desk department and confirmed that it was provisioned correctly within the SharePoint Admin Center. The site is now available for collaboration, document storage, and future permission management.
+I successfully created a new SharePoint Team Site for the Help Desk department and confirmed that it was provisioned correctly within the SharePoint Admin Center. The site is now available for collaboration, document storage, and future permission management.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** **SharePoint Team Site** creation wizard showing the **Site name**, **Site description**, **Group owner**, and **Site configuration**.
+**Figure 1:** SharePoint Team Site creation wizard showing the Site name, Site description, Group owner, and Site configuration.
 
 <img width="1919" height="917" alt="06 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/f734d880-f902-4ef1-9deb-87c2a6d4171c" />
 
-**Figure 2:** Newly created **Helpdesk** Team Site displayed within **Active Sites**, confirming successful site creation.
+**Figure 2:** Newly created Helpdesk Team Site displayed within Active Sites, confirming successful site creation.
 
 <img width="1919" height="914" alt="07 – Create a SharePoint Team Site" src="https://github.com/user-attachments/assets/4721e666-87c7-4331-9e86-3a85dd1e7065" />
 
@@ -173,13 +173,13 @@ I successfully created a new **SharePoint Team Site** for the Help Desk departme
 
 ## Objective
 
-Manage **SharePoint Site Permissions** for the **Helpdesk** team site by reviewing existing permission groups, controlling member access, and adding a new member to the site.
+Manage SharePoint Site Permissions for the Helpdesk team site by reviewing existing permission groups, controlling member access, and adding a new member to the site.
 
 ---
 
 ## Implementation
 
-I managed the **SharePoint Site Permissions** for the **Helpdesk** team site by accessing the site's permissions panel and reviewing the configured **Owners**, **Members**, and **Visitors** groups. I verified the site's sharing configuration and added a new member to the **Helpdesk Members** group to grant access to the site.
+I managed the SharePoint Site Permissions for the Helpdesk team site by accessing the site's permissions panel and reviewing the configured Owners, Members, and Visitors groups. I verified the site's sharing configuration and added a new member to the Helpdesk Members group to grant access to the site.
 
 ---
 
@@ -199,17 +199,17 @@ Microsoft 365 Admin Center
 
 ## Outcome
 
-I successfully managed the **SharePoint Site Permissions** by reviewing the site's permission groups and adding a new member to the **Helpdesk Members** group. This ensures that authorized users can securely access the SharePoint site while maintaining appropriate permission management.
+I successfully managed the SharePoint Site Permissions by reviewing the site's permission groups and adding a new member to the Helpdesk Members group. This ensures that authorized users can securely access the SharePoint site while maintaining appropriate permission management.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** SharePoint **Site Permissions** panel for the **Helpdesk** site, displaying the configured **Owners**, **Members**, and **Visitors** groups, along with the available site sharing management options.
+**Figure 1:** SharePoint Site Permissions panel for the Helpdesk site, displaying the configured Owners, Members, and Visitors groups, along with the available site sharing management options.
 
 <img width="1919" height="916" alt="08 – Manage SharePoint Site Permissions" src="https://github.com/user-attachments/assets/ff3a0e06-74de-482a-a9cb-44f900dcbc66" />
 
-**Figure 2:** **Group membership** page showing the successful addition of a new member to the **Helpdesk Members** group, confirming that site permissions were updated successfully.
+**Figure 2:** Group membership page showing the successful addition of a new member to the Helpdesk Members group, confirming that site permissions were updated successfully.
 
 <img width="1919" height="916" alt="09 – Manage SharePoint Site Permissions" src="https://github.com/user-attachments/assets/a36cb3c0-c3e9-4de4-9200-5e8078352c0d" />
 
@@ -217,13 +217,13 @@ I successfully managed the **SharePoint Site Permissions** by reviewing the site
 
 ## Objective
 
-Share an existing **SharePoint Team Site** with another user to provide access for collaboration. This demonstrates a common Help Desk task of granting users access to SharePoint resources.
+Share an existing SharePoint Team Site with another user to provide access for collaboration. This demonstrates a common Help Desk task of granting users access to SharePoint resources.
 
 ---
 
 ## Implementation
 
-I shared the **Helpdesk** SharePoint Team Site by opening the site's **Share** option, selecting a user, and sending an invitation to access the site. After the invitation was sent, SharePoint confirmed that the user had been successfully invited.
+I shared the Helpdesk SharePoint Team Site by opening the site's Share option, selecting a user, and sending an invitation to access the site. After the invitation was sent, SharePoint confirmed that the user had been successfully invited.
 
 ---
 
@@ -242,16 +242,16 @@ Microsoft 365 Admin Center
 
 ## Outcome
 
-I successfully shared the **Helpdesk** SharePoint Team Site with a user by sending a SharePoint invitation. The invitation was accepted by SharePoint, confirming that access had been granted through the site's sharing feature.
+I successfully shared the Helpdesk SharePoint Team Site with a user by sending a SharePoint invitation. The invitation was accepted by SharePoint, confirming that access had been granted through the site's sharing feature.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Share window for the **Helpdesk** SharePoint Team Site with the selected user added before sending the invitation.
+**Figure 1:** Share window for the Helpdesk SharePoint Team Site with the selected user added before sending the invitation.
 
 <img width="1919" height="913" alt="10 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/d7dd3d69-0d8c-445f-aea7-d703efe7be54" />
 
-**Figure 2:** **SharePoint** confirmation showing that the invitation was successfully sent to the selected user.
+**Figure 2:** SharePoint confirmation showing that the invitation was successfully sent to the selected user.
 
 <img width="1918" height="913" alt="11 – Share a SharePoint Site" src="https://github.com/user-attachments/assets/f1bd0bfd-f7bf-443f-ae45-78a7cd39b7ea" />
