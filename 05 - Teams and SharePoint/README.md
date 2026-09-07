@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section covers the core **Microsoft Teams** and **SharePoint** administration tasks I completed within the **Microsoft 365** environment. I configured organisation-wide **Teams settings**, **Guest Access**, and **Meeting Policies**, before creating a **SharePoint Team Site** and managing its **permissions, membership, and user access**. These tasks demonstrate practical collaboration, access management, and user support skills commonly used within an **IT Support** environment.
+This section covers the core Microsoft Teams and SharePoint administration tasks I completed within the Microsoft 365 environment. I configured organisation-wide Teams settings, Guest Access, and Meeting Policies, before creating a SharePoint Team Site and managing its permissions, membership, and user access. These tasks demonstrate practical collaboration, access management, and user support skills commonly used within an IT Support environment.
 
 ---
 
@@ -10,13 +10,13 @@ This section covers the core **Microsoft Teams** and **SharePoint** administrati
 
 ## Objective
 
-Configure **Microsoft Teams organisation-wide settings** to control which file storage integrations are available across the organisation.
+Configure Microsoft Teams organisation-wide settings to control which file storage integrations are available across the organisation.
 
 ---
 
 ## Implementation
 
-I configured the **Teams Settings** within the **Microsoft Teams admin center** by reviewing the organisation-wide file storage options. Following the demonstrated configuration, I disabled the available third-party cloud storage providers within the **Files** section and saved the updated settings.
+I configured the Teams Settings within the Microsoft Teams admin center by reviewing the organisation-wide file storage options. Following the demonstrated configuration, I disabled the available third-party cloud storage providers within the Files section and saved the updated settings.
 
 After saving the configuration, I verified that the changes were successfully applied by confirming the on-screen success notification.
 
@@ -34,13 +34,13 @@ Microsoft Teams admin center
 
 ## Outcome
 
-I successfully configured the **Microsoft Teams organisation settings** by updating the available file storage integrations and confirmed that the changes were successfully saved.
+I successfully configured the Microsoft Teams organisation settings by updating the available file storage integrations and confirmed that the changes were successfully saved.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Configuring the **Microsoft Teams organisation settings** by updating the available **Files** integrations and confirming the successful save notification.
+**Figure 1:** Configuring the Microsoft Teams organisation settings by updating the available Files integrations and confirming the successful save notification.
 
 <img width="1919" height="913" alt="01 – Configure Microsoft Teams Organization Settings" src="https://github.com/user-attachments/assets/9c6b68e0-9d04-41ed-ac62-7c7b18c7cca2" />
 
@@ -48,13 +48,13 @@ I successfully configured the **Microsoft Teams organisation settings** by updat
 
 ## Objective
 
-Configure **Guest Access** in the **Microsoft Teams Admin Center** to control what external users are permitted to do within Microsoft Teams. This is a common security administration task used to manage collaboration with users outside the organisation.
+Configure Guest Access in the Microsoft Teams Admin Center to control what external users are permitted to do within Microsoft Teams. This is a common security administration task used to manage collaboration with users outside the organisation.
 
 ---
 
 ## Implementation
 
-I configured the **Guest Access** settings within the **Microsoft Teams Admin Center** by disabling guest access for external users. After saving the configuration, I verified that the changes were successfully applied and confirmed by the on-screen success notification.
+I configured the Guest Access settings within the Microsoft Teams Admin Center by disabling guest access for external users. After saving the configuration, I verified that the changes were successfully applied and confirmed by the on-screen success notification.
 
 ---
 
@@ -70,13 +70,13 @@ Microsoft Teams admin center
 
 ## Outcome
 
-I successfully configured the **Guest Access** settings by disabling external guest access and confirmed the configuration was saved successfully.
+I successfully configured the Guest Access settings by disabling external guest access and confirmed the configuration was saved successfully.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Guest Access settings configured within the **Microsoft Teams Admin Center**, showing guest access disabled and the successful save confirmation message.
+**Figure 1:** Guest Access settings configured within the Microsoft Teams Admin Center, showing guest access disabled and the successful save confirmation message.
 
 <img width="1919" height="915" alt="02 – Configure Guest Access" src="https://github.com/user-attachments/assets/4cce4e1c-437f-4c43-84c3-acec65d37115" />
 
@@ -84,13 +84,13 @@ I successfully configured the **Guest Access** settings by disabling external gu
 
 ## Objective
 
-Configure **Meeting Policies** in the **Microsoft Teams Admin Center** to control meeting security settings such as anonymous meeting access and meeting recording.
+Configure Meeting Policies in the Microsoft Teams Admin Center to control meeting security settings such as anonymous meeting access and meeting recording.
 
 ---
 
 ## Implementation
 
-I configured the **Global Meeting Policy** within the **Microsoft Teams Admin Center** by disabling anonymous meeting access and meeting recording to demonstrate common security configurations used to protect Microsoft Teams meetings.
+I configured the Global Meeting Policy within the Microsoft Teams Admin Center by disabling anonymous meeting access and meeting recording to demonstrate common security configurations used to protect Microsoft Teams meetings.
 
 ---
 
@@ -107,21 +107,21 @@ Microsoft Teams admin center
 
 ## Outcome
 
-I successfully configured the **Global Meeting Policy** by disabling anonymous meeting access and meeting recording, then confirmed the policy was successfully updated.
+I successfully configured the Global Meeting Policy by disabling anonymous meeting access and meeting recording, then confirmed the policy was successfully updated.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Meeting Join & Lobby settings showing **Anonymous users** configured.
+**Figure 1:** Meeting Join & Lobby settings showing Anonymous users configured.
 
 <img width="1919" height="913" alt="03 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/afa02fc3-0dba-4b0d-b8ed-61c3a85e6036" />
 
-**Figure 2:** Recording & Transcription settings showing **Meeting recording** configured.
+**Figure 2:** Recording & Transcription settings showing Meeting recording configured.
 
 <img width="1919" height="915" alt="04 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/7732c734-a0dc-4aba-854b-69f895ab958f" />
 
-**Figure 3:** **Meeting Policies** page confirming the policy was successfully updated.
+**Figure 3:** Meeting Policies page confirming the policy was successfully updated.
 
 <img width="1919" height="915" alt="05 – Configure Meeting Policies" src="https://github.com/user-attachments/assets/881cb18f-1416-4049-9845-c3900a36af66" />
 
@@ -131,7 +131,7 @@ I successfully configured the **Global Meeting Policy** by disabling anonymous m
 
 ## Objective
 
-Create a **SharePoint Team Site** within the **SharePoint Admin Center** to provide a dedicated collaboration space for the IT Help Desk team. This demonstrates a common Microsoft 365 administration task used to provision departmental sites for document management and team collaboration.
+Create a SharePoint Team Site within the SharePoint Admin Center** to provide a dedicated collaboration space for the IT Help Desk team. This demonstrates a common Microsoft 365 administration task used to provision departmental sites for document management and team collaboration.
 
 ---
 
